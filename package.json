@@ -1,0 +1,19 @@
+{
+  "name": "timer_npm",
+  "version": "1.0.0",
+  "description": "learn how to deliver a package to nom repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxy224/Timer_npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lxy224/Timer_npm/issues"
+  },
+  "homepage": "https://github.com/lxy224/Timer_npm#readme"
+}
